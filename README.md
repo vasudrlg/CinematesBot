@@ -1,5 +1,5 @@
 ![Cinemates ™](https://telegra.ph/file/3a95aa2c9b7345ff4fd9a.jpg)
-# Harita Robot 
+# Cinemates ™
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database. This is the Most Powerful Telegram Bot. You Can Clone The Bot At Your Own Risks.
 
