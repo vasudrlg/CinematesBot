@@ -32,13 +32,12 @@ PM_START_TEXT = """
 
 I'm a powerful group management bot 🤖
 
-👉Add me to your groups as admin to manage your groups with my commands🤩
-
+👉MADE FOR [This Group](https://t.me/CinematesChannel) 
+👉And Maintend By [This Person](https://t.me/MrHeart_Hacker1431N) 
 You can find my list of available commands with /help .
- 
-See [Basic Configuration Checklist](https://t.me/HaritaNews/10) on how to secure your group.
 
-See the Source code of this bot [Source Code](https://github.com/Avishekbhattacharjee/Harita-Robot)
+
+See the Source code of this bot [Source Code](https://github.com/vasudrlg/CinematesBot)
 """
 
 HELP_STRINGS = """
